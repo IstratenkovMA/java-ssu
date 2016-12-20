@@ -1,0 +1,8 @@
+.idea
+*.iws
+/out/
+target
+.idea_modules/
+*.war
+*.ear
+*.iml
